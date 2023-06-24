@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode jhbaf"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comments ",
+      "postId": 1 
+    }
+  ],
+  "signup": [
+    {
+      "name": "Shiva Jivtode",
+      "email": "shivajivtode1@gmail.com",
+      "mobile": "09588418303",
+      "password": "23",
+      "id": 1
+    },
+    {
+      "name": "darshan",
+      "email": "darshan12@gmail.com",
+      "mobile": "8765434556",
+      "password": "0000",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
